@@ -1,0 +1,10 @@
+{
+  "name": "NaR Navigation",
+  "version": "0.0.1",
+  "description": "demo",
+  "manifest_version": 2,
+  "browser_action": {
+      "default_popup": "pop.html",
+      "default_icon": "logo.png"
+  }
+}
